@@ -1,0 +1,3 @@
+/Users/ctw01026/Projects/cybershield/BoschTest/build/CMakeFiles/BoschTest.dir
+/Users/ctw01026/Projects/cybershield/BoschTest/build/CMakeFiles/edit_cache.dir
+/Users/ctw01026/Projects/cybershield/BoschTest/build/CMakeFiles/rebuild_cache.dir
